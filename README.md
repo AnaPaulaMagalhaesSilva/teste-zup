@@ -9,7 +9,7 @@
 
 `bundle install`
 
-3.Install Chrome for your OS
+3. Install Chrome for your OS
 
 ## Executing a desktop test for Americanas' purchase flow 
 `bundle exec cucumber --tags @checkPurchaseFlow -p json`
