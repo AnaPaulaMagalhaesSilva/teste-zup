@@ -16,5 +16,5 @@
 
 
 ## Usage
-  After running the test, to generate the report.html run the command `ruby reports.rb`
+  After running the test, to generate the report.html run the command `ruby reports.rb`. The generated report will be stored in the reports folder.
     
